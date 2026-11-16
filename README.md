@@ -54,7 +54,7 @@ The dataset used here was derived from the following Kaggle:<br><br>
 </b>
 </a> by Divyam6969.
 <br><br>
-The following explanation (except) was taken the website above. 
+The following explanation (except) was taken from the website above. 
 <br><br>
 <b>About Dataset</b><br>
 <b>Overview:</b><br>
